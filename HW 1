@@ -44,13 +44,13 @@ JSON
     vim skills.json
 нажать для начала ввода i
 {"skills" :
-  {"terminal" ,
+  ["terminal" ,
    "git" ,
    "postman",
    "Client-server architecture" ,
    "mobile" ,
    "SQL"
-   }
+   ]
 }
 выйти из режима редактирования esc :x
  15. Отправить сразу 2 файла на внешний репозиторий -
@@ -61,7 +61,7 @@ JSON
  17. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
  18. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON
  {"bug_report":
-   {"number" ,
+   ["number" ,
     "severity" ,
     "priority" ,
     "environment" ,
@@ -72,7 +72,7 @@ JSON
     "ER" ,
     "Attachment" ,
     "comments"
-    }
+    ]
 }
  19. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
  20. Синхронизировать внешний и локальный репозиторий JSON - git pull
