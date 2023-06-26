@@ -12,7 +12,7 @@
   git checkout bag_reports
   vim bag_reports.txt
 для начала ввода нажать i
-    number, severity, priority, title, optional pre-cond., STR, AR, ER, attachment, comments
+    number, severity, priority, environment, title, optional pre-cond., STR, AR, ER, attachment, comments
 выйти из режима редактирования esc :x
 
 
