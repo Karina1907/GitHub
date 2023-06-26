@@ -70,7 +70,8 @@ JSON
     "STR" ,
     "AR" ,
     "ER" ,
-    "Attachment"
+    "Attachment" ,
+    "comments"
     }
 }
  19. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
