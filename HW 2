@@ -30,7 +30,7 @@
   git checkout checklists
   vim checklists.txt
 для начала ввода нажать i
-   number, title, optional pre-cond., STR, ER, attachment, comments, bug link
+   number, title, environment, pre-cond., inputs, STR, ER, AR, status, attachment, bug link
 выйти из режима редактирования esc :x
 
 
